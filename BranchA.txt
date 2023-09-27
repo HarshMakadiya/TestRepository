@@ -4,8 +4,3 @@ This is Branch A
 This is Branch A
 This is Branch A
 This is Branch A
-
-This is Branch A
-This is Branch A
-This is Branch A
-
